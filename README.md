@@ -26,10 +26,19 @@ In this project, our goal is to train and build a deep learning model that can c
 
 ### Results:
 
-We developed a baseline dense layer model that achieved 0.81 accuracy on our validation set. Aiming for a high recall and balanced F1, we used a Convolution Neural Network that achieved 0.88 recall and 0.93 F1. 
+**Baseline dense layer model ** 
 
-Additionally, we used Transfer Learning model DenseNet to boost our score; the result was 0.98 recall with 0.76 F1. 
+- Accuracy: 0.81
 
+**Convolution Neural Networkt** 
+
+- Recall: 0.88
+- F1:     0.93
+
+**Transfer Learning model DenseNet** 
+
+- Recall: 0.98 
+- F1:     0.76
 
 ### Dataset:
 
