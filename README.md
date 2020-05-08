@@ -89,4 +89,16 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 - Improve the current model with additional chest x-ray data from adult patients 
 - Explore machine learning solutions that detects the cause of pneumonia (viral vs bacterial)
 
-  
+
+#### Tools / Libraries
+<pre>
+Languages               : Python
+Tools/IDE               : Anaconda
+Libraries               : Keras, TensorFlow, Inception, ImageNet
+</pre>
+
+#### Dates
+<pre>
+Duration                : May 2020
+Last Update             : 05.08.2020
+</pre>
