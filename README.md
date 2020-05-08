@@ -47,6 +47,10 @@ Dataset Links    : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-p
 
 ### Results:
 
+Model | Accuracy | Precision | **Recall** |
+--- | --- | --- | --- |
+
+
 **Baseline dense layer model** 
 
 - Accuracy: 0.81
