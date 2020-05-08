@@ -20,9 +20,9 @@ Contributors:
 
 - README.md - a summary of the repository content
 
-- [](/images) - all images
+- [/images](https://github.com/viviandng/flatiron-project-4/tree/master/images) - all images
 
-- /presentation - PowerPoint and pdf files of the final presentation
+- [/presentation](https://github.com/viviandng/flatiron-project-4/blob/master/Presentation/Pneumonia%20X-Ray%20Detection.pdf) - PowerPoint and pdf files of the final presentation
 
   
 
