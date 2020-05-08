@@ -47,8 +47,8 @@ Dataset Links    : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-p
 
 ### Results:
 
-Model | Accuracy | Precision | **Recall** |
---- | --- | --- | --- |
+Model | Accuracy | Precision | F1 | **Recall** |
+--- | --- | --- | --- | --- |
 Baseline Dense | 0.81
 CNN | | 0.93 | 0.88
 DenseNet | | | 0.76 | 0.98
