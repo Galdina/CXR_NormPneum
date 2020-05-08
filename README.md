@@ -4,7 +4,7 @@
 Contributors:
 [Alphonso Woodbury](https://github.com/a-woodbury)
 [Vivian Dang](https://github.com/viviandng)
-<pre>
+</pre>
 
 ![coverphoto.png](https://github.com/viviandng/flatiron-project-4/blob/master/images/xray.png)
 
@@ -14,6 +14,7 @@ Sub-Domain         : Deep Learning, Image Recognition
 Techniques         : Deep Convolutional Neural Network, ImageNet, Inception
 Application        : Image Recognition, Image Classification, Medical Imaging
 </pre>
+
 
 ### Items in Repository:
 
