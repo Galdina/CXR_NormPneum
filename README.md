@@ -53,21 +53,11 @@ Baseline Dense | 0.81 | - | - | -
 CNN | - | 0.93 | 0.88 - | -
 DenseNet | - | - | 0.76 | 0.98
 
-**Baseline dense layer model** 
 
-- Accuracy: 0.81
-
-**Convolution Neural Network** 
-
-- Recall: 0.88
-- F1:     0.93
 
 ![Confusion Matrix](https://github.com/viviandng/flatiron-project-4/blob/master/images/conf.png)
 
-**Transfer Learning model DenseNet** 
 
-- Recall: 0.98 
-- F1:     0.76
 
 
 ### Methodology:
