@@ -1,5 +1,10 @@
 # Pneumonia Image Classification with Deep Learning
-
+<pre>
+Domain             : Computer Vision, Machine Learning
+Sub-Domain         : Deep Learning, Image Recognition
+Techniques         : Deep Convolutional Neural Network, ImageNet, Inception
+Application        : Image Recognition, Image Classification, Medical Imaging
+</pre>
 <pre>
 Contributors:
 <a href=https://github.com/a-woodbury>Alphonso Woodbury</a>
@@ -8,12 +13,7 @@ Contributors:
 
 ![coverphoto.png](https://github.com/viviandng/flatiron-project-4/blob/master/images/xray.png)
 
-<pre>
-Domain             : Computer Vision, Machine Learning
-Sub-Domain         : Deep Learning, Image Recognition
-Techniques         : Deep Convolutional Neural Network, ImageNet, Inception
-Application        : Image Recognition, Image Classification, Medical Imaging
-</pre>
+
 
 
 ### Items in Repository:
