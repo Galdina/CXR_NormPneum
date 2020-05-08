@@ -20,9 +20,7 @@ Contributors:
 
 - README.md - a summary of the repository content
 
-- /images - all images
-
-- /data - all data files pertaining to the pediatric chest x-rays
+- [](/images) - all images
 
 - /presentation - PowerPoint and pdf files of the final presentation
 
@@ -35,9 +33,9 @@ In this project, our goal is to train and build a deep learning model that can c
 
 #### Code
 <pre>
-GitHub Link      : <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Model: Baseline, Densely Connected(GitHub) </a>
-GitHub Link      : <a href=https://gitlab.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Model: CNN (Github) </a>
-GitHub Link      : <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Model: DenseNet PreTrained (GitHub)</a>
+GitHub Link      : <a href=https://github.com/viviandng/flatiron-project-4/blob/master/Code/Model_baseline_Dense.ipynb>Model: Baseline, Densely Connected(GitHub) </a>
+GitHub Link      : <a href=https://github.com/viviandng/flatiron-project-4/blob/master/Code/Model_CNN.ipynb>Model: CNN (Github) </a>
+GitHub Link      : <a https://github.com/viviandng/flatiron-project-4/blob/master/Code/Model_DenseNet.ipynb>Model: DenseNet PreTrained (GitHub)</a>
 </pre>
 
 #### Dataset
