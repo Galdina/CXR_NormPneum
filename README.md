@@ -43,7 +43,7 @@ GitHub Link      : <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-
 #### Dataset
 <pre>
 Dataset Name     : Chest X-Ray Images (Pneumonia)
-Dataset Link     : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
+Dataset Links     : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
                  : <a href=https://data.mendeley.com/datasets/rscbjbr9sj/2>Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)</a>
 </pre>
 
