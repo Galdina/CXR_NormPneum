@@ -36,7 +36,7 @@ In this project, our goal is to train and build a deep learning model that can c
 - Recall: 0.88
 - F1:     0.93
 
-![Confusion Matrix]()
+![Confusion Matrix](https://github.com/viviandng/flatiron-project-4/blob/master/images/conf.png)
 
 **Transfer Learning model DenseNet** 
 
