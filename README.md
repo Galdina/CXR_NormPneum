@@ -26,7 +26,7 @@ In this project, our goal is to train and build a deep learning model that can c
 
 ### Results:
 
-**Baseline dense layer model ** 
+**Baseline dense layer model** 
 
 - Accuracy: 0.81
 
