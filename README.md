@@ -30,7 +30,7 @@ In this project, our goal is to train and build a deep learning model that can c
 
 - Accuracy: 0.81
 
-**Convolution Neural Networkt** 
+**Convolution Neural Network** 
 
 - Recall: 0.88
 - F1:     0.93
