@@ -24,6 +24,7 @@ In this project, our goal is to train and build a deep learning model that can c
 
 
 
+
 ### Results:
 
 **Baseline dense layer model** 
@@ -35,11 +36,23 @@ In this project, our goal is to train and build a deep learning model that can c
 - Recall: 0.88
 - F1:     0.93
 
+![Confusion Matrix]()
+
 **Transfer Learning model DenseNet** 
 
 - Recall: 0.98 
 - F1:     0.76
 
+
+### Methodology:
+
+1.	Download the dataset 
+2.	Reshape x-rays to  64x64 and create a baseline model with dense layers (fully connected)
+3.	Train the data on different models and compare recall scores
+    - Densely Connected Neural Network
+    - Convolutional Neural Network
+    - DenseNet Pretrained
+4.	Test the data on the best model (highest recall score)
 ### Dataset:
 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
@@ -54,12 +67,7 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
   - 234 normal 
   - 390 pneumonia 
 
-### Methodology:
 
-1.	Download the dataset 
-2.	Reshape x-rays to  64x64 and create a baseline model with dense layers (fully connected)
-3.	Train the data on different models and compare recall scores
-4.	Test the data on the best model (highest recall score)
 
 
 
