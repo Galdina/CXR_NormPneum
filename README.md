@@ -2,10 +2,8 @@
 
 <pre>
 Contributors:
-
 <a href=https://github.com/a-woodbury>Alphonso Woodbury</a>
 <a href=https://github.com/viviandng>Vivian Dang</a>
-
 </pre>
 
 ![coverphoto.png](https://github.com/viviandng/flatiron-project-4/blob/master/images/xray.png)
