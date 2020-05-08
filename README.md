@@ -45,9 +45,6 @@ GitHub Link      : <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-
 Dataset Name     : Chest X-Ray Images (Pneumonia)
 Dataset Link     : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
                  : <a href=https://data.mendeley.com/datasets/rscbjbr9sj/2>Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)</a>
-Original Paper   : <a href=https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5>Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning</a>
-                   (Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, M. Anthony Lewis, Huimin Xia, Kang Zhang)
-                   https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 </pre>
 
 ### Results:
