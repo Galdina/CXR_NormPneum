@@ -35,12 +35,11 @@ In this project, our goal is to train and build a deep learning model that can c
 <pre>
 GitHub Link      : <a href=https://github.com/viviandng/flatiron-project-4/blob/master/Code/Model_baseline_Dense.ipynb>Model: Baseline, Densely Connected(GitHub) </a>
 GitHub Link      : <a href=https://github.com/viviandng/flatiron-project-4/blob/master/Code/Model_CNN.ipynb>Model: CNN (Github) </a>
-GitHub Link      : <a https://github.com/viviandng/flatiron-project-4/blob/master/Code/Model_DenseNet.ipynb>Model: DenseNet PreTrained (GitHub)</a>
+GitHub Link      : <a href=https://github.com/viviandng/flatiron-project-4/blob/master/Code/Model_DenseNet.ipynb>Model: DenseNet PreTrained (GitHub)</a>
 </pre>
 
 #### Dataset
 <pre>
-Dataset Name     : Chest X-Ray Images (Pneumonia)
 Dataset Links    : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
                  : <a href=https://data.mendeley.com/datasets/rscbjbr9sj/2>Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)</a>
 </pre>
