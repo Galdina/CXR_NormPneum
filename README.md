@@ -52,13 +52,6 @@ Baseline Dense | 0.81 | - | - | n/a
 CNN | - | 0.93 | 0.88 - | 0.9
 DenseNet | 0.61 | 0.62 | 0.76 | 0.98
 
-
-
-![Confusion Matrix](https://github.com/viviandng/flatiron-project-4/blob/master/images/conf.png)
-
-
-
-
 ### Methodology:
 
 1.	Download the dataset 
